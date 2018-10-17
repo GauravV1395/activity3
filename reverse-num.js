@@ -1,0 +1,3 @@
+function reverseNum(){
+console.log();
+}
